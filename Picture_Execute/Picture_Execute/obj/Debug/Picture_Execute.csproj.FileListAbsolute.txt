@@ -1,0 +1,12 @@
+C:\Users\Le Quoc Thang\source\repos\Picture_Execute\Picture_Execute\bin\Debug\Picture_Execute.exe.config
+C:\Users\Le Quoc Thang\source\repos\Picture_Execute\Picture_Execute\bin\Debug\Picture_Execute.exe
+C:\Users\Le Quoc Thang\source\repos\Picture_Execute\Picture_Execute\bin\Debug\Picture_Execute.pdb
+C:\Users\Le Quoc Thang\source\repos\Picture_Execute\Picture_Execute\obj\Debug\Picture_Execute.csprojAssemblyReference.cache
+C:\Users\Le Quoc Thang\source\repos\Picture_Execute\Picture_Execute\obj\Debug\Picture_Execute.Form1.resources
+C:\Users\Le Quoc Thang\source\repos\Picture_Execute\Picture_Execute\obj\Debug\Picture_Execute.Properties.Resources.resources
+C:\Users\Le Quoc Thang\source\repos\Picture_Execute\Picture_Execute\obj\Debug\Picture_Execute.csproj.GenerateResource.cache
+C:\Users\Le Quoc Thang\source\repos\Picture_Execute\Picture_Execute\obj\Debug\Picture_Execute.csproj.CoreCompileInputs.cache
+C:\Users\Le Quoc Thang\source\repos\Picture_Execute\Picture_Execute\obj\Debug\Picture_Execute.exe
+C:\Users\Le Quoc Thang\source\repos\Picture_Execute\Picture_Execute\obj\Debug\Picture_Execute.pdb
+C:\Users\Le Quoc Thang\source\repos\Picture_Execute\Picture_Execute\obj\Debug\Picture_Execute.Result.resources
+C:\Users\Le Quoc Thang\source\repos\Picture_Execute\Picture_Execute\obj\Debug\Picture_Execute.Result1.resources
